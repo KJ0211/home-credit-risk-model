@@ -41,4 +41,3 @@ not establish stability over time.
 The target represents the dataset's payment difficulty definition.
 This is a portfolio project, not a production lending system.
 
-Full notebook execution from a fresh kernel remains to be verified.
