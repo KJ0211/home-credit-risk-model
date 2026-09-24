@@ -1,0 +1,20 @@
+# Downloaded source data in the project root
+/*.csv
+
+# Generated models, predictions and reports
+/outputs/
+*.joblib
+
+# Local screenshots
+/*.png
+
+# Python and notebook temporary files
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.venv/
+venv/
+
+# IDE configuration and secrets
+.idea/
+.env
